@@ -2,6 +2,9 @@
 
 This repository contains the pytorch codes of our paper "[DiffusionGPT: LLM-Driven Text-to-Image Generation System]()".
 
+## Update
+I am attempting to remove OpenAI depenancies in favor of using llama-cpp-agent and comfyscript. WIP.
+
 ## Overview
 Diffusion-GPT leverages Large Language Models (LLM) to offer a unified generation system capable of seamlessly accommodating various types of prompts and integrating domain-expert models.
 ![method](imgs/method.png)
